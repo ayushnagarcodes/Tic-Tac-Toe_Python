@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Python
+# Tic-Tac-Toe
 - This is my first project as a beginner in python. I tried to create a Tic-Tac-Toe game with all basic python code.
 - I didn't use any complex code. I used basic string & input methods along with scopes, while loop & for loop to create this program.
 - It works on 3x3 grid & coordinate system i.e, we have to input coordinates to make our move.
